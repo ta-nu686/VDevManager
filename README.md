@@ -117,7 +117,7 @@ To check that the driver loaded: `lsmod | grep vdev` and `ls -l /dev/mydev`.
 ![Driver loaded](docs/screenshots/driver-loaded.png)
 
 ### Menu application
-![Menu app](docs/screenshots/Write and Read Data Operations.png)
+![Menu app](docs/screenshots/Write-and-Read-Data-Operations.png)
 
 ### Automated tests
 ![Tests passing](docs/screenshots/test-report.png)
