@@ -1,0 +1,11 @@
+*.o
+*.ko
+*.mod
+*.mod.c
+*.cmd
+.*.cmd
+modules.order
+Module.symvers
+vdevmanager
+tests/test_vdev
+docs/VIVA_QA.md
