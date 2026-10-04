@@ -113,17 +113,14 @@ To check that the driver loaded: `lsmod | grep vdev` and `ls -l /dev/mydev`.
 
 ## Output
 
-> TODO: paste your own output here (this is the part that shows the project really ran).
+### Driver loaded
+![Driver loaded](docs/screenshots/driver-loaded.png)
 
-```
-(paste: ls -l /dev/mydev)
-(paste: dmesg | tail)
-(paste: make test result)
-```
+### Menu application
+![Menu app](docs/screenshots/Write and Read Data Operations.png)
 
-You can also add a screenshot of the menu application:
-
-`![Menu app](docs/menu_screenshot.png)`
+### Automated tests
+![Tests passing](docs/screenshots/test-report.png)
 
 ## Challenges I Faced
 
